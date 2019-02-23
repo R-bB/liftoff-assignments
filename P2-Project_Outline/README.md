@@ -7,11 +7,32 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+    I will be building a employee database app that is searchable by name and 
+department. This app will allow company clients to locate extension numbers for 
+their company representative. It will also allow employees to add important notes 
+regarding other employees in the company. The app will allow department managers 
+to edit, add or remove employee records for the employees in their department.
+
+    I was inspired to make this app after looking through a company directory 
+for a large company.
+
 ### Features
-Include Features here
+
+- Employee log in
+- Search by name
+- Search by department
+- Add, edit, or remove comments
+- Add, edit or remove employees
+
 ### Technologies
-Include Technologies here
+- React
+- Spring Boot
+- MySql
+- Java
+- Hibernate
+- OAuth 2
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+I will have to learn React and how to incorporate Oauth 2.
