@@ -7,15 +7,37 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
+I will be developing 2 seperate apps
 
-I will be building a employee database app that is searchable by name and 
-department. This app will allow company clients to locate extension numbers for 
-their company representative. It will also allow employees to add important notes 
-regarding other employees in the company. The app will allow department managers 
-to edit, add or remove employee records for the employees in their department.
+## App Number 1
 
-I was inspired to make this app after looking through a company directory 
-for a large company.
+In app number one I will be developing a todo web app with 
+social media oath using a nosql database
+
+### Features
+
+- Log in via google, facebook, or email
+- Add todo items to the database
+- Edit items
+- remove items
+- be able to acces the todo web app from any device with acces to a web browser and the internet
+
+### Technologies
+- React
+- Cloud FireStore
+- Javascript
+- Material-UI
+
+### What I'll Have to Learn
+
+I will have to learn React and how to use Google Firebase..
+
+
+## App Number 2
+
+In app number 2 will be building a employee database using mysql.
+
+
 
 ### Features
 
@@ -26,7 +48,6 @@ for a large company.
 - Add, edit or remove employees
 
 ### Technologies
-- React
 - Spring Boot
 - MySql
 - Java
@@ -35,4 +56,4 @@ for a large company.
 
 ### What I'll Have to Learn
 
-I will have to learn React and how to incorporate Oauth 2.
+I will have to learn how to incorporate Oauth 2.
